@@ -12,3 +12,9 @@ int main()
     printf("The value of d is %c\n",d);
     return 0;
 }
+
+OUTPUT:
+The value of a is 0.000000
+The value of b is 4.000000
+The value of c is 1.50
+The value of d is A

@@ -1,0 +1,21 @@
+#include <stdio.h>
+
+int main()
+{
+    int a,b;
+    float c;
+    a=5;
+    b=2;
+    c=a+b;
+    printf("sum of %d and %d is %.2f\n",a,b,c);
+    c=a*b;
+    printf("Product of %d and %d is %.2f\n",a,b,c);/*
+    c=a/b;
+    printf("integer division of %d by %d is %.2f\n",a,b,c);
+    c=(float)a/b;
+    printf("Real Division of %d by %d is %.2f\n",a,b,c);*/
+    return 0;
+}
+
+sum of 5 and 2 is 7.00
+Product of 5 and 2 is 10.00

@@ -20,6 +20,11 @@ int main()
     }
     return 0;
     }
-
-Enter the value of a and b 
-^C
+    
+    
+OUTPUT:    
+Enter value a and b
+6
+9
+sum of a and b is 15
+sum is greater than 10 and less than 20
